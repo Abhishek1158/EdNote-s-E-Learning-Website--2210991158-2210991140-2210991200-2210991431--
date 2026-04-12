@@ -1,4 +1,4 @@
-# EdNote-s
+# EdNote's E-Learning Website
 EdNote's is an e-learning platform that combines multiple learning resources in a single platform like mcq's, smart notes, courses, flashcards and analytics part.
 
 # 🚀🚀 Features
