@@ -12,7 +12,7 @@ storage in MongoDB.
 4. User Interaction (Frontend): Frontend (React.js) handles routing, UI rendering, and API 
 communication via Axios, ensuring seamless interaction.
 
-# 🚀 Features
+#  Features
 Secure user authentication (Register/Login)
 Course browsing and lesson viewing
 MCQ-based assessments
