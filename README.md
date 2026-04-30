@@ -1,3 +1,8 @@
+# 2210991158 Abhishek   Copyright applied
+# 2210991140 Abhay      Copyright applied
+# 2210991200 Aditya Sharma  Copyright applied
+# 2210991431 Ayushman Bansal  Copyright applied
+
 # EdNote's E-Learning Website
 EdNote’s is a web application designed to enhance learning through an integrated platform. It combines multiple educational materials such as MCQs, courses, smart notes, flashcards and analytics into a single system to improve learning efficiency and knowledge.
 
